@@ -14,7 +14,7 @@ The Equalizers's overall goal was to investigate the difference between availabi
 races in the city and county of St. Louis.
 
 ## Technologies Used
-- Google Colab (HPC)
+- Cloudy Cluster
 - Jupyter Notebook
 - Python
 - Pandas
